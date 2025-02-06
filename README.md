@@ -18,11 +18,6 @@ Google Colab (opcional): Ambiente de execução baseado em nuvem para código Py
 
 
 
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/a00de4ff-c95e-4c17-8580-a73f8eb1b460)
 
 ![image](https://github.com/user-attachments/assets/7223ae96-24d0-4a80-b9a9-20a4b0e23926)
@@ -47,3 +42,6 @@ Google Colab (opcional): Ambiente de execução baseado em nuvem para código Py
 
 ![image](https://github.com/user-attachments/assets/107dd1d5-ba95-4fed-b58b-5fb28b586ec5)
 
+Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar o projeto.✌😊
